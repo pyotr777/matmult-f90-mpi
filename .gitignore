@@ -5,5 +5,5 @@
 !Makefile
 !select.tau
 !README.md
-!/Profiles/**
-!/traces/**
+!/Profiles/mpi-pdt-fujitsu/**/*.ppk
+!/traces/*.slog2

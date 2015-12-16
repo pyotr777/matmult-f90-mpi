@@ -1,0 +1,9 @@
+.*
+*.*
+!.gitignore
+!*.f90
+!Makefile
+!select.tau
+!README.md
+!/Profiles/**
+!/traces/**
